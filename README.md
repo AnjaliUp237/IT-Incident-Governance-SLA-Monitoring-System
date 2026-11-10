@@ -19,7 +19,15 @@ The dashboard was developed to demonstrate competencies relevant to:
 
 ## 📷 Dashboard Preview
 
-images/dashboard-overview.png
+![Dashboard](images/dashboard-overview.png)
+
+---
+
+## 🎬 Dashboard Demonstration
+
+A complete walkthrough of dashboard functionality, including VBA automation and PDF report generation.
+
+![▶ Watch Demo](images/dashboard-demo.mp4)
 
 ---
 
@@ -82,7 +90,7 @@ Tracks:
 - Open Tickets
 - Pending Customer Response
 
-images/incident-status-distribution.png
+![Chart1](images/incident-status-distribution.png)
 
 ---
 
@@ -95,7 +103,7 @@ Measures SLA performance across:
 - Medium
 - Low
 
-images/sla-compliance-priority.png
+![Chart2](images/sla-compliance-priority.png)
 
 ---
 
@@ -109,7 +117,7 @@ Analyzes support demand across:
 - Refund Requests
 - Cancellation Requests
 
-images/incident-volume-category.png
+![Chart3](images/incident-volume-category.png)
 
 ---
 
@@ -122,7 +130,7 @@ Analyzes incident sources across:
 - Chat
 - Social Media
 
-images/incident-intake-channel.png
+![Chart4](images/incident-intake-channel.png)
 
 ---
 
@@ -130,7 +138,7 @@ images/incident-intake-channel.png
 
 Provides visibility into workload distribution based on priority levels.
 
-images/incident-volume-priority.png
+![Chart5](images/incident-volume-priority.png)
 
 ---
 
@@ -138,7 +146,7 @@ images/incident-volume-priority.png
 
 Evaluates source data reliability and SLA measurability.
 
-images/data-integrity-assessment.png
+![Chart6](images/data-integrity-assessment.png)
 
 ---
 
@@ -305,17 +313,18 @@ Potential future developments include:
 ```text
 IT-Incident-Governance-SLA-Monitoring-System/
 │
-├── Dashboard.xlsm
 ├── README.md
+├── IT_Incident_Governance_Dashboard.xlsm
 │
-├── images
+├── images/
 │   ├── dashboard-overview.png
-│   ├── incident-status-distribution.png
+│   ├── dashboard-demo.gif
 │   ├── sla-compliance-priority.png
+│   ├── incident-status-distribution.png
 │   ├── incident-volume-category.png
 │   ├── incident-volume-priority.png
 │   ├── incident-intake-channel.png
 │   └── data-integrity-assessment.png
 │
-└── documentation
-    └── Dashboard_Report.pdf
+└── reports/
+    └── sample-dashboard-report.pdf
