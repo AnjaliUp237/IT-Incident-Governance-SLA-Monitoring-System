@@ -27,7 +27,7 @@ The dashboard was developed to demonstrate competencies relevant to:
 
 A complete walkthrough of dashboard functionality, including VBA automation and PDF report generation.
 
-![▶ Watch Demo](images/dashboard-demo.mp4)
+![▶ Watch Demo](images/dashboard-demo.gif)
 
 ---
 
